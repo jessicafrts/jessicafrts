@@ -1,6 +1,4 @@
 # Hi there, I'm Jéssica  
-<p>PHP Developer || Web Developer</p>
-<hr>
 <p>Actively Learning...</p>
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/> 
