@@ -1,5 +1,5 @@
 # Hi there, I'm Jéssica  
-<p>PHP Developer || Web developer</p>
+<p>PHP Developer || Web Developer</p>
 <hr>
 <p>Actively Learning...</p>
 
